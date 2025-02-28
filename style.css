@@ -1,0 +1,20 @@
+body{
+    background-color: cyan;
+
+}
+
+table {
+     height: 400px;
+     width: 60%;
+
+
+}
+
+caption {
+    background-color: blueviolet;
+    color: azure;
+}
+tr{
+    text-align: center;
+    background-color: coral;
+}
